@@ -1,6 +1,8 @@
 # Installation
 
-If you are using windows, put these two folders into `My Documents\Arduino\libraries\`.
-If you are using OSX, put these two folders into `~/Documents/Arduino/libraries/`.
+Download the folder `HX711_CIVL5999`.
 
-If the Arduino IDE is open, close it. After re-opening the IDE, Click on File -> Examples -> HX711_CIVL5999 -> load_cell_basic to load the simplest use case.
+If you are using windows, move this folder into `My Documents\Arduino\libraries\`.
+If you are using OSX, move this folder into `~/Documents/Arduino/libraries/`.
+
+If the Arduino IDE is already open, close it. Now open the IDE and click on File -> Examples -> HX711_CIVL5999 -> load_cell_basic to load the simplest use case.
